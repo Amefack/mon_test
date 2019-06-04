@@ -1,3 +1,2 @@
-var message="hello"
-bonjour le monde
-bonjour
+var message="hello";
+bonjour le monde;
